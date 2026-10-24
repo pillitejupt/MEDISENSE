@@ -44,7 +44,7 @@ export const translations: Record<Language, Record<string, string>> = {
     'common.save': 'Save',
     'common.cancel': 'Cancel',
     'common.loading': 'Analyzing...',
-    'disclaimer': 'MediSense AI provides educational information and preliminary guidance only. It is not a substitute for professional medical diagnosis or treatment. Always consult a licensed healthcare professional.',
+    'disclaimer': 'MediSense AI provides preliminary health information for educational purposes only. It does not diagnose diseases or replace professional medical advice. Symptoms can have many causes. Seek advice from a qualified healthcare professional. For life-threatening symptoms, contact emergency services immediately.',
   },
   hi: {
     'nav.home': 'होम', 'nav.dashboard': 'डैशबोर्ड', 'nav.chatbot': 'एआई डॉक्टर',
